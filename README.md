@@ -37,11 +37,8 @@
 </div>
 <h2 data-importer="text" align="left">Social Media</h2>
 ###
-div data-importer-"techs" align="left">
-href="https://t.me/Poripoir">
-<img src="https://cdn.simpleicons.org/telegram/264584" height="48" alt="Telegram"/>
+<img src="https://cdn.simpleicons.org/telegram/264584" href="https://www.instagram.com/alfianudahmandi?igsi=MXBvZHlxeHA1NHg5" height="48" alt="Telegram"/>
 <ing width="12" />
-href="https://instagram.com/poripoir">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
 <img width="12" />
 <a href="https://wa.me/62895426627208">
