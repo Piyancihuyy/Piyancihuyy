@@ -36,7 +36,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 <h2 data-importer="text" align="left">Social Media</h2>
+
 ###
+
 <div data-importer="techs" align="left">
 <a href="https://t.me/alfianbudi">
 <img src="https://cdn.simpleicons.org/telegram/264584" height="40" alt="Telegram"/>
@@ -49,4 +51,5 @@
 <img width="12" />
 </div>
 </a>
+  
 ###
