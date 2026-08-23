@@ -37,11 +37,14 @@
 </div>
 <h2 data-importer="text" align="left">Social Media</h2>
 ###
-<img src="https://cdn.simpleicons.org/telegram/264584" href="https://www.instagram.com/alfianudahmandi?igsi=MXBvZHlxeHA1NHg5" height="48" alt="Telegram"/>
+<div data-importer="techs" align="left">
+<a href="https://t.me/alfianbudi">
+<img src="https://cdn.simpleicons.org/telegram/264584" height="40" alt="Telegram"/>
 <ing width="12" />
+<a href="https://www.instagram.com/alfianudahmandi?igsi=MXBvZHlxeHA1NHg5">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
 <img width="12" />
-<a href="https://wa.me/62895426627208">
+<a href="https://wa.me/6289523971906">
 <img src="https://cdn.simpleicons.org/whatsapp/250366" height="40" alt="WhatsApp"/>
 <img width="12" />
 </div>
