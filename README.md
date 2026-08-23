@@ -40,15 +40,19 @@
 ###
 
 <div data-importer="techs" align="left">
+  
 <a href="https://t.me/alfianbudi">
-<img src="https://cdn.simpleicons.org/telegram/264584" height="40" alt="Telegram"/>
-<ing width="12" />
+<img src="https://cdn.simpleicons.org/telegram/229ED9" height="40" alt="Telegram"/>
+<img width="12" />
+  
 <a href="https://www.instagram.com/alfianudahmandi?igsi=MXBvZHlxeHA1NHg5">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40" alt="Instagram"/>
 <img width="12" />
+  
 <a href="https://wa.me/6289523971906">
-<img src="https://cdn.simpleicons.org/whatsapp/250366" height="40" alt="WhatsApp"/>
+<img src="https://cdn.simpleicons.org/whatsapp/25D366" height="40" alt="WhatsApp"/>
 <img width="12" />
+  
 </div>
 </a>
   
