@@ -13,7 +13,7 @@
 
 ###
 
-<p data-importer="text" align="left">📚 I'm currently learning programming languages<br>🎯 Goals: Be a greatest web designer</p>
+<p data-importer="text" align="left">📚 I'm currently learning programming languages<br>🎯 Goals: Be the greatest web designer</p>
 
 ###
 
